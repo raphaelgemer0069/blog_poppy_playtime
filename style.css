@@ -1,0 +1,10 @@
+header{
+    background-color: crimson;
+    width: 100%;
+}
+header h1 {
+    color: blueviolet;
+    text-align: center;
+    width: 200%;
+
+}
